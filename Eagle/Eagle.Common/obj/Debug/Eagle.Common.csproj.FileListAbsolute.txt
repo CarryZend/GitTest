@@ -1,0 +1,14 @@
+D:\Codes\DiscTradingSystem\Eagle.Common\bin\Debug\Eagle.Common.dll
+D:\Codes\DiscTradingSystem\Eagle.Common\bin\Debug\Eagle.Common.pdb
+D:\Codes\DiscTradingSystem\Eagle.Common\bin\Debug\COM.Excel.dll
+D:\Codes\DiscTradingSystem\Eagle.Common\bin\Debug\OpenSmtp.dll
+D:\Codes\DiscTradingSystem\Eagle.Common\obj\Debug\Eagle.Common.dll
+D:\Codes\DiscTradingSystem\Eagle.Common\obj\Debug\Eagle.Common.pdb
+D:\Codes\DiscTradingSystem\Eagle.Common\obj\Debug\Eagle.Common.csprojResolveAssemblyReference.cache
+D:\Codes\Eagle\Eagle.Common\bin\Debug\Eagle.Common.dll
+D:\Codes\Eagle\Eagle.Common\bin\Debug\Eagle.Common.pdb
+D:\Codes\Eagle\Eagle.Common\bin\Debug\COM.Excel.dll
+D:\Codes\Eagle\Eagle.Common\bin\Debug\OpenSmtp.dll
+D:\Codes\Eagle\Eagle.Common\obj\Debug\Eagle.Common.csprojResolveAssemblyReference.cache
+D:\Codes\Eagle\Eagle.Common\obj\Debug\Eagle.Common.dll
+D:\Codes\Eagle\Eagle.Common\obj\Debug\Eagle.Common.pdb

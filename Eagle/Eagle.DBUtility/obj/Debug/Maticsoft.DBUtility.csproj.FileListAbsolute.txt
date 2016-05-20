@@ -1,0 +1,17 @@
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\obj\Debug\Maticsoft.DBUtility.csprojResolveAssemblyReference.cache
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\bin\Debug\Maticsoft.DBUtility.dll
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\bin\Debug\Maticsoft.DBUtility.pdb
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\bin\Debug\MySql.Data.dll
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\obj\Debug\Maticsoft.DBUtility.dll
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\obj\Debug\Maticsoft.DBUtility.pdb
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\bin\Debug\Eagle.Config.dll
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\bin\Debug\Eagle.Common.dll
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\bin\Debug\Maticsoft.Common.dll
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\bin\Debug\Excel.dll
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\bin\Debug\COM.Excel.dll
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\bin\Debug\OpenSmtp.dll
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\bin\Debug\office.dll
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\bin\Debug\Eagle.Config.pdb
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\bin\Debug\Eagle.Common.pdb
+D:\Codes\DiscTradingSystem\Maticsoft.DBUtility\bin\Debug\Maticsoft.Common.pdb

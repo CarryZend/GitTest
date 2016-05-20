@@ -1,0 +1,10 @@
+D:\Codes\DiscTradingSystem\Eagle.Control\bin\Debug\Eagle.Control.dll
+D:\Codes\DiscTradingSystem\Eagle.Control\bin\Debug\Eagle.Control.pdb
+D:\Codes\DiscTradingSystem\Eagle.Control\obj\Debug\Eagle.Control.csprojResolveAssemblyReference.cache
+D:\Codes\DiscTradingSystem\Eagle.Control\obj\Debug\Eagle.Control.dll
+D:\Codes\DiscTradingSystem\Eagle.Control\obj\Debug\Eagle.Control.pdb
+D:\Codes\Eagle\Eagle.Control\bin\Debug\Eagle.Control.dll
+D:\Codes\Eagle\Eagle.Control\bin\Debug\Eagle.Control.pdb
+D:\Codes\Eagle\Eagle.Control\obj\Debug\Eagle.Control.csprojResolveAssemblyReference.cache
+D:\Codes\Eagle\Eagle.Control\obj\Debug\Eagle.Control.dll
+D:\Codes\Eagle\Eagle.Control\obj\Debug\Eagle.Control.pdb

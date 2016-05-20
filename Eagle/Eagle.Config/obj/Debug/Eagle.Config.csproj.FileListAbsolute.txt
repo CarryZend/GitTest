@@ -1,0 +1,16 @@
+D:\Codes\DiscTradingSystem\Eagle.Config\bin\Debug\Eagle.Config.dll
+D:\Codes\DiscTradingSystem\Eagle.Config\bin\Debug\Eagle.Config.pdb
+D:\Codes\DiscTradingSystem\Eagle.Config\bin\Debug\Eagle.Common.dll
+D:\Codes\DiscTradingSystem\Eagle.Config\bin\Debug\OpenSmtp.dll
+D:\Codes\DiscTradingSystem\Eagle.Config\bin\Debug\Eagle.Common.pdb
+D:\Codes\DiscTradingSystem\Eagle.Config\obj\Debug\Eagle.Config.csprojResolveAssemblyReference.cache
+D:\Codes\DiscTradingSystem\Eagle.Config\obj\Debug\Eagle.Config.dll
+D:\Codes\DiscTradingSystem\Eagle.Config\obj\Debug\Eagle.Config.pdb
+D:\Codes\Eagle\Eagle.Config\bin\Debug\Eagle.Config.dll
+D:\Codes\Eagle\Eagle.Config\bin\Debug\Eagle.Config.pdb
+D:\Codes\Eagle\Eagle.Config\bin\Debug\Eagle.Common.dll
+D:\Codes\Eagle\Eagle.Config\bin\Debug\OpenSmtp.dll
+D:\Codes\Eagle\Eagle.Config\bin\Debug\Eagle.Common.pdb
+D:\Codes\Eagle\Eagle.Config\obj\Debug\Eagle.Config.csprojResolveAssemblyReference.cache
+D:\Codes\Eagle\Eagle.Config\obj\Debug\Eagle.Config.dll
+D:\Codes\Eagle\Eagle.Config\obj\Debug\Eagle.Config.pdb

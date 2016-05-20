@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{267EE512-A81F-474E-B61D-36EB82AA49FC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Eagle.Entity</RootNamespace>
+    <AssemblyName>Eagle.Entity</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DiscBuildingCacheEntity.cs" />
+    <Compile Include="DiscBuildingEntity.cs" />
+    <Compile Include="DiscCBDEntity.cs" />
+    <Compile Include="DiscCityEntity.cs" />
+    <Compile Include="DiscDeveloperEntity.cs" />
+    <Compile Include="DiscDistrictEntity.cs" />
+    <Compile Include="DiscFiletypeEntity.cs" />
+    <Compile Include="DiscMenuEntity.cs" />
+    <Compile Include="DiscOfficeGradeEntity.cs" />
+    <Compile Include="DiscOfficeRentEntity.cs" />
+    <Compile Include="DiscOfficeTypeEntity.cs" />
+    <Compile Include="DiscPaymentMethodEntity.cs" />
+    <Compile Include="DiscPropertyEntity.cs" />
+    <Compile Include="DiscProvinceEntity.cs" />
+    <Compile Include="DiscRoleEntity.cs" />
+    <Compile Include="DiscRoleMenuEntity.cs" />
+    <Compile Include="DiscUploadFileUrlEntity.cs" />
+    <Compile Include="DiscUploadGroupEntity.cs" />
+    <Compile Include="DiscUploadTypeEntity.cs" />
+    <Compile Include="DiscUserBuildingEntity.cs" />
+    <Compile Include="DiscUserEntity.cs" />
+    <Compile Include="DiscUserRoleEntity.cs" />
+    <Compile Include="global\OnlineUserInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View_AddressEntity.cs" />
+    <Compile Include="View_BuildingAddressEntity.cs" />
+    <Compile Include="View_BuildingEntity.cs" />
+    <Compile Include="View_CBDEntity.cs" />
+    <Compile Include="View_DeveloperEntity.cs" />
+    <Compile Include="View_OfficeRentEntity.cs" />
+    <Compile Include="View_PropertyEntity.cs" />
+    <Compile Include="View_UploadFileUrlEntity.cs" />
+    <Compile Include="View_UserBuildingEntity.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Eagle.DBUtility\Eagle.DBUtility.csproj">
+      <Project>{1de1f1d6-7685-479d-8063-a74934e7a790}</Project>
+      <Name>Eagle.DBUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Eagle.Interface\Eagle.Interface.csproj">
+      <Project>{78d0aef8-a72f-4426-97bb-10a05900dc78}</Project>
+      <Name>Eagle.Interface</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
