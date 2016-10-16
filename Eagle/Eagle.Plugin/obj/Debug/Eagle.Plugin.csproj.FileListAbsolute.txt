@@ -8,3 +8,8 @@ D:\Codes\Eagle\Eagle.Plugin\bin\Debug\Eagle.Plugin.pdb
 D:\Codes\Eagle\Eagle.Plugin\obj\Debug\Eagle.Plugin.csprojResolveAssemblyReference.cache
 D:\Codes\Eagle\Eagle.Plugin\obj\Debug\Eagle.Plugin.dll
 D:\Codes\Eagle\Eagle.Plugin\obj\Debug\Eagle.Plugin.pdb
+D:\Codes\Git\Eagle\Eagle.Plugin\bin\Debug\Eagle.Plugin.dll
+D:\Codes\Git\Eagle\Eagle.Plugin\bin\Debug\Eagle.Plugin.pdb
+D:\Codes\Git\Eagle\Eagle.Plugin\obj\Debug\Eagle.Plugin.csprojResolveAssemblyReference.cache
+D:\Codes\Git\Eagle\Eagle.Plugin\obj\Debug\Eagle.Plugin.dll
+D:\Codes\Git\Eagle\Eagle.Plugin\obj\Debug\Eagle.Plugin.pdb

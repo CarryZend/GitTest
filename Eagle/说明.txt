@@ -1,0 +1,15 @@
+Eagle.Common		工具方法类
+Eagle.Config		配置文件类
+Eagle.Contact
+Eagle.Control
+Eagle.Data		数据操作包装层
+Eagle.DBUtility		数据访问具体方法
+Eagle.Entity		实体层
+Eagle.Factory		工厂
+Eagle.Interface		接口
+Eagle.Manage		管理
+Eagle.Plugin		插件
+Eagle.Service		服务
+------------------------------------------
+Eagle.Test		测试
+Eagle.ToolProject	生成工具

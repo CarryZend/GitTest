@@ -1,0 +1,5 @@
+D:\Codes\Git\Eagle\Eagle.Contact\bin\Debug\Eagle.Contact.dll
+D:\Codes\Git\Eagle\Eagle.Contact\bin\Debug\Eagle.Contact.pdb
+D:\Codes\Git\Eagle\Eagle.Contact\obj\Debug\Eagle.Contact.csprojResolveAssemblyReference.cache
+D:\Codes\Git\Eagle\Eagle.Contact\obj\Debug\Eagle.Contact.dll
+D:\Codes\Git\Eagle\Eagle.Contact\obj\Debug\Eagle.Contact.pdb

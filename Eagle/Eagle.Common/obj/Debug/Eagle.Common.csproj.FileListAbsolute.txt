@@ -12,3 +12,10 @@ D:\Codes\Eagle\Eagle.Common\bin\Debug\OpenSmtp.dll
 D:\Codes\Eagle\Eagle.Common\obj\Debug\Eagle.Common.csprojResolveAssemblyReference.cache
 D:\Codes\Eagle\Eagle.Common\obj\Debug\Eagle.Common.dll
 D:\Codes\Eagle\Eagle.Common\obj\Debug\Eagle.Common.pdb
+D:\Codes\Git\Eagle\Eagle.Common\bin\Debug\Eagle.Common.dll
+D:\Codes\Git\Eagle\Eagle.Common\bin\Debug\Eagle.Common.pdb
+D:\Codes\Git\Eagle\Eagle.Common\bin\Debug\COM.Excel.dll
+D:\Codes\Git\Eagle\Eagle.Common\bin\Debug\OpenSmtp.dll
+D:\Codes\Git\Eagle\Eagle.Common\obj\Debug\Eagle.Common.csprojResolveAssemblyReference.cache
+D:\Codes\Git\Eagle\Eagle.Common\obj\Debug\Eagle.Common.dll
+D:\Codes\Git\Eagle\Eagle.Common\obj\Debug\Eagle.Common.pdb

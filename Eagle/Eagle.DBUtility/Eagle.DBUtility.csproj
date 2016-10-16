@@ -68,6 +68,10 @@
     <Content Include="Lib\OWC10Chart.dll" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Eagle.Common\Eagle.Common.csproj">
+      <Project>{cdc60d3e-482e-4867-b478-b6a2b009a379}</Project>
+      <Name>Eagle.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Eagle.Config\Eagle.Config.csproj">
       <Project>{bb27f6e1-11b4-4e40-a4be-c8be3e6467b5}</Project>
       <Name>Eagle.Config</Name>

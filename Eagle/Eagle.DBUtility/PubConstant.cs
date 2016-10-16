@@ -1,3 +1,4 @@
+using Eagle.Common.DEncrypt;
 using System;
 using System.Configuration;
 namespace Eagle.DBUtility

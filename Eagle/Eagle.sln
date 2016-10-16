@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eagle.Manage", "Eagle.Manag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eagle.Plugin", "Eagle.Plugin\Eagle.Plugin.csproj", "{89B30A47-895B-4AAA-A420-E3E2DB371CB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eagle.Service", "Eagle.Service\Eagle.Service.csproj", "{B1087BF6-CDE1-4C9B-B454-571863EE8062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eagle.Contact", "Eagle.Contact\Eagle.Contact.csproj", "{A8585659-CF9E-4466-896B-6E9E50F01C12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +83,14 @@ Global
 		{89B30A47-895B-4AAA-A420-E3E2DB371CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89B30A47-895B-4AAA-A420-E3E2DB371CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89B30A47-895B-4AAA-A420-E3E2DB371CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1087BF6-CDE1-4C9B-B454-571863EE8062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1087BF6-CDE1-4C9B-B454-571863EE8062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1087BF6-CDE1-4C9B-B454-571863EE8062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1087BF6-CDE1-4C9B-B454-571863EE8062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8585659-CF9E-4466-896B-6E9E50F01C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8585659-CF9E-4466-896B-6E9E50F01C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8585659-CF9E-4466-896B-6E9E50F01C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8585659-CF9E-4466-896B-6E9E50F01C12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

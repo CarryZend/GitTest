@@ -24,3 +24,16 @@ D:\Codes\Eagle\Eagle.Interface\bin\Debug\Eagle.Common.pdb
 D:\Codes\Eagle\Eagle.Interface\obj\Debug\Eagle.Interface.csprojResolveAssemblyReference.cache
 D:\Codes\Eagle\Eagle.Interface\obj\Debug\Eagle.Interface.dll
 D:\Codes\Eagle\Eagle.Interface\obj\Debug\Eagle.Interface.pdb
+D:\Codes\Git\Eagle\Eagle.Interface\bin\Debug\Eagle.Interface.dll
+D:\Codes\Git\Eagle\Eagle.Interface\bin\Debug\Eagle.Interface.pdb
+D:\Codes\Git\Eagle\Eagle.Interface\bin\Debug\Eagle.DBUtility.dll
+D:\Codes\Git\Eagle\Eagle.Interface\bin\Debug\MySql.Data.dll
+D:\Codes\Git\Eagle\Eagle.Interface\bin\Debug\Eagle.Config.dll
+D:\Codes\Git\Eagle\Eagle.Interface\bin\Debug\Eagle.Common.dll
+D:\Codes\Git\Eagle\Eagle.Interface\bin\Debug\OpenSmtp.dll
+D:\Codes\Git\Eagle\Eagle.Interface\bin\Debug\Eagle.DBUtility.pdb
+D:\Codes\Git\Eagle\Eagle.Interface\bin\Debug\Eagle.Config.pdb
+D:\Codes\Git\Eagle\Eagle.Interface\bin\Debug\Eagle.Common.pdb
+D:\Codes\Git\Eagle\Eagle.Interface\obj\Debug\Eagle.Interface.csprojResolveAssemblyReference.cache
+D:\Codes\Git\Eagle\Eagle.Interface\obj\Debug\Eagle.Interface.dll
+D:\Codes\Git\Eagle\Eagle.Interface\obj\Debug\Eagle.Interface.pdb

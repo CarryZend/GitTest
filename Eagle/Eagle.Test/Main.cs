@@ -28,7 +28,7 @@ namespace Eagle.Test
 
             objDiscUserEntity = objIGenericDataAccessLayer.SelectEntitiesByEntityCondition(objDiscUserEntity)[0];
 
-            MessageBox.Show(objDiscUserEntity.UserName+"123");
+            MessageBox.Show(objDiscUserEntity.UserName+"123456");
         }
     }
 }
